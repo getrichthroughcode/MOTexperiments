@@ -36,8 +36,8 @@ L’objectif est d’expérimenter rapidement de nouvelles stratégies de suivi 
     ├── __init__.py
     └── io.py
 ```
-```
-```
+
+
 
 ## **Installation**
 Clonez le projet et installez les dépendances :
@@ -55,10 +55,4 @@ pip install -r requirements.txt
       -	tracks_as_mot(self, frame_idx: int)
 	3.	Importez et utilisez votre tracker dans mot17_tracking_experiment.py.
 
-
-
-
-
-```
-```
 ```
