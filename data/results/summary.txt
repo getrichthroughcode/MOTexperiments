@@ -1,0 +1,2 @@
+        idf1      idp       idr   recall  precision  num_unique_objects  mostly_tracked  partially_tracked  mostly_lost  num_false_positives  num_misses  num_switches  num_fragmentations      mota      motp  num_transfer  num_ascend  num_migrate
+04  0.159554  0.37764  0.101143  0.19301   0.720642                 141               9                 44           88                 8081       87159           360                 407  0.114856  0.227086           271          98           31
